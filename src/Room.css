@@ -1,0 +1,37 @@
+.room {
+  height: 100vh;
+  margin: 0;
+}
+
+.lit {
+  background-color: white;
+  color: black;
+  
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+.buttonOn{
+    background-color: green;
+    color: white;
+    padding: 20px 20px;
+    margin: 50px;
+}
+.buttonOff{
+    background-color: red;
+    color: white;
+    padding: 20px 20px;
+}
+.buttonIncreaseTemp{
+    background-color:red;
+    color: white;
+    margin: 50px;
+    padding: 20px 20px 20px 20px;
+}
+.buttonDecreaseTemp{
+    background-color:green;
+    color: white;
+    padding: 20px 20px 20px 20px;
+}
