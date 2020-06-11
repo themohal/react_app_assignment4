@@ -37,8 +37,11 @@ function Room() {
     <br/>
     <button className="buttonIncreaseTemp" onClick={()=>{setTemp(++temp)}}><strong>+</strong></button>
     <button className="buttonDecreaseTemp" onClick={()=>{setTemp(--temp)}}><strong>-</strong></button>
+    <br/>
+    <br/>
+    <br/>
+    <div className="buttonOff"><strong>Developed by Muhammad Farjad Ali Raza</strong></div>
     </div>
-    
     </div>
     
   );
